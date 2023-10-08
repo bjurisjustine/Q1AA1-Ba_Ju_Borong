@@ -1,7 +1,11 @@
 *{ margin: 0px; padding: 0px}
 
 .links{ display: inline;}
+.backdropii{
+    background-color: #fefae0;
+    height: 100vh;
 
+}
 #navbar{
     height: 8vh;
     width: 100vw;
