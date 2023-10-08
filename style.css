@@ -1,0 +1,163 @@
+*{ margin: 0px; padding: 0px}
+
+.links{ display: inline;}
+
+#navbar{
+    height: 8vh;
+    width: 100vw;
+    border: 1px solid black;
+    text-align: right;
+    background-color: #e9edc9;
+    text-shadow: black;
+    
+
+}
+
+.galeria{
+    margin: 5px;
+    border: 1px solid black;
+    padding: 11px;
+    display:inline-flex;
+    float: right;
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: bolder;
+    background-color: #ccd5ae;
+}
+
+
+.bahay{
+    margin: 5px;
+    border: 1px solid black;
+    padding: 11px;
+    display:inline-flex;
+    float: right;
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: bolder;
+    background-color: #ccd5ae;
+}
+
+
+
+.links a :hover{opacity: .25; transition: .4s;}
+
+.logo{
+    display: inline-block;
+    position: absolute;
+    border: 5px solid #ccd5ae;
+    left: 10vh;
+    width:40x;
+    height: 40px;
+    border-radius: 120px;
+
+}
+
+.banner{
+    position: relative;
+    text-align: center;
+    background-color: #ccd5ae;
+    background-image: url(images/Free\ Stock\ Photo\ of\ Subtle\ Green\ Grunge\ Background.jpg);
+    border: ridge #ccd5ae 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display:inline;
+    margin: 85px;
+    padding:10px;
+    position: absolute;
+    left: 12.5vh;
+    right: 12.5vh;
+    height: 70vh;
+
+    
+}
+
+.heading{
+    font-size:x-large;
+    font-weight: bolder;
+}
+.name{
+    display: inline;
+    color:#606c38;
+    font-family: cursive;
+}
+.font{
+    display: inline;
+    color:rgb(253, 249, 249);
+}
+.paragraph{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0vh;
+    left: 0vw;
+    background-color: #a3b18a;
+    border: black solid 1px;
+    height: 9vh;
+    width: 100vw;
+    
+}
+.credits{
+    padding: 10px;
+    margin: 10px;
+    color:white;
+    float:left;
+}
+
+.links2{
+    display:inline;
+}
+.links2 a{
+    float:right;
+    text-decoration: none;
+    margin: 10px;
+    padding: 1px;
+    opacity: 1;
+    transition: .4s;
+    height:10px;
+    width: 50px;
+}
+.links2 a:hover{opacity: .25; transition: .4s;}
+
+.circle{
+    border-radius: 75%;
+    border:white solid 1px;
+    padding:3px;
+}
+
+.backdrop{
+    background-image: url(images/Free\ Stock\ Photo\ of\ Subtle\ Green\ Grunge\ Background.jpg);
+    height: 100vh;
+}
+
+.gallery{
+    font-family: 'Times New Roman', Times, serif;
+    color: #3a5a40;
+    left: 20vh;
+    margin: 80px;
+}
+
+h2{
+    font-size: xx-large;
+    width: 50vw;
+    height: 3vh;
+}
+
+.images{
+    height:215px;
+    width:200px;
+    display:inline;
+}
+
+.pix{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.pics img {
+    margin: 20px;
+    width: 200px;
+    height: 200px;
+    border: 7px ridge white; 
+}
