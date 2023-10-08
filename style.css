@@ -61,7 +61,7 @@
     text-align: center;
     background-color: #ccd5ae;
     background-image: url(images/Free\ Stock\ Photo\ of\ Subtle\ Green\ Grunge\ Background.jpg);
-    border: ridge #ccd5ae 10px;
+    border: inset #ccd5ae 10px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     display:inline;
     margin: 85px;
